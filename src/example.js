@@ -1,6 +1,5 @@
-const unusedVar = "this is unused";
-console.log("Hello, world!");
-let anotherVar = "double quotes"
+console.log('Hello, world!');
+let anotherVar = 'single quotes';
 function test() {
-  return 42
+  return 42;
 }
